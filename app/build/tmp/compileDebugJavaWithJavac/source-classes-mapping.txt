@@ -1,0 +1,21 @@
+com/demo/shoppinglist/data/MyDbHandler.java
+ com.demo.shoppinglist.data.MyDbHandler
+com/demo/shoppinglist/params/params.java
+ com.demo.shoppinglist.params.params
+com/demo/shoppinglist/model/shopping.java
+ com.demo.shoppinglist.model.shopping
+com/demo/shoppinglist/BuildConfig.java
+ com.demo.shoppinglist.BuildConfig
+com/demo/shoppinglist/NewList.java
+ com.demo.shoppinglist.NewList
+com/demo/shoppinglist/adapter/RecyclerViewAdapter.java
+ com.demo.shoppinglist.adapter.RecyclerViewAdapter
+ com.demo.shoppinglist.adapter.RecyclerViewAdapter$1
+ com.demo.shoppinglist.adapter.RecyclerViewAdapter$ViewHolder
+com/demo/shoppinglist/adapter/EditList.java
+ com.demo.shoppinglist.adapter.EditList
+com/demo/shoppinglist/MainActivity.java
+ com.demo.shoppinglist.MainActivity
+ com.demo.shoppinglist.MainActivity$1
+ com.demo.shoppinglist.MainActivity$1$1
+ com.demo.shoppinglist.MainActivity$1$2
